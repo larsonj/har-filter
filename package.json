@@ -1,0 +1,29 @@
+{
+  "name": "har-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "har-filter.js",
+  "dependencies": {
+    "typescript": "^2.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  },
+  "scripts": {
+    "test": "node har-filter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsonj/har-filter.git"
+  },
+  "keywords": [
+    "HAR",
+    "Filter"
+  ],
+  "author": "jcl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsonj/har-filter/issues"
+  },
+  "homepage": "https://github.com/larsonj/har-filter#readme"
+}
