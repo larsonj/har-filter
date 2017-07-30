@@ -3,3 +3,5 @@ mail.google.com.har.json
 node_modules
 *.js
 *.js.map
+*.har.json
+*.har

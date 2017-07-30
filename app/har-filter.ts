@@ -1,5 +1,5 @@
 
-import * as jsonFile from '../input.har';
+import * as jsonFile from '../input.har.json';
 import * as rmc from './util/RemoteHTTPMethodCounters';
 
 let rmCtr = new rmc.RequestMethodCounter();
