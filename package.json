@@ -10,7 +10,7 @@
     "typescript": "^2.4.2"
   },
   "scripts": {
-    "test": "node har-filter.js"
+    "test": "node ./app/har-filter.js"
   },
   "repository": {
     "type": "git",
